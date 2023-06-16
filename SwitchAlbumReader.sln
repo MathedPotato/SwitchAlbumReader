@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchAlbumReader", "SwitchAlbumReader\SwitchAlbumReader.csproj", "{83410FD3-844F-4FEB-AD91-11B91857A01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoPlayerWpf", "VideoPlayerWpf\VideoPlayerWpf.csproj", "{776C4EB4-9674-40B3-AB8F-A69884F1228E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83410FD3-844F-4FEB-AD91-11B91857A01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83410FD3-844F-4FEB-AD91-11B91857A01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83410FD3-844F-4FEB-AD91-11B91857A01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83410FD3-844F-4FEB-AD91-11B91857A01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776C4EB4-9674-40B3-AB8F-A69884F1228E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776C4EB4-9674-40B3-AB8F-A69884F1228E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776C4EB4-9674-40B3-AB8F-A69884F1228E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776C4EB4-9674-40B3-AB8F-A69884F1228E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CE4D77-34E4-40B2-95FD-C0D570C6B646}
+	EndGlobalSection
+EndGlobal
